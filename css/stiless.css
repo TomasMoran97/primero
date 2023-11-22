@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&display=swap");
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Oswald", sans-serif;
+}
+
+header {
+  background-color: #FF8303;
+}
+header img {
+  width: 140px;
+}
+header nav a {
+  color: #1B1A17;
+  text-decoration: none;
+  font-size: 2.5rem;
+}
+header ul {
+  list-style: none;
+}
+
+.banner {
+  background-image: url(../medios/Banner.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  background-position: center;
+}
+
+.presentacion {
+  font-size: 1.5rem;
+}
+.presentacion h2 {
+  text-decoration: none;
+  color: #1B1A17;
+}
+.presentacion img {
+  background-position: center;
+}
+
+h1 {
+  font-size: 5rem;
+  font-family: "Oswald", sans-serif;
+  text-align: center;
+  color: #1B1A17;
+}
+
+h2 {
+  font-size: 3rem;
+  font-family: "Oswald", sans-serif;
+  text-align: center;
+  color: #1B1A17;
+  text-decoration: underline;
+}
+
+p {
+  font-size: 2.5rem;
+  font-family: "Oswald", sans-serif;
+  color: #A35709;
+}
+
+footer {
+  background-color: #FF8303;
+}
+footer img, footer svg {
+  width: 50px;
+}
+footer .logoTelefono {
+  margin-left: 10px;
+}
+footer div {
+  width: 30%;
+}
+footer .logoFacebook,
+footer .logoInstagram {
+  background-color: #FF8303;
+}
+
+/*# sourceMappingURL=stiless.css.map */
